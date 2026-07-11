@@ -37,7 +37,7 @@ Below is a detailed overview of the programming languages and core technologies 
 
 ### Project Pipeline & Current Status
 
-* **Cysra Anome v7.3:** The next major iteration of the web browser ecosystem is actively under development. This version focuses on structural optimization, a refined user experience, and stability upgrades. Release implementation is planned for the near future.
+* **Cysra Anome v7.4:** The next major iteration of the web browser ecosystem is actively under development. This version focuses on structural optimization, a refined user experience, and stability upgrades. Release implementation is planned for the near future.
 * **caPluginZone:** A repo that you can download safe plugins for Cysra Anome. This project focuses on safety and more functionality.
 
 
